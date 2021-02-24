@@ -1,0 +1,18 @@
+.judul{
+    color: maroon;
+    font-family: tahoma;
+    font-size: 25px;
+}
+
+.alert{
+    color: white;
+    background-color: maroon;
+    font-family: serif;
+    font-size: 15px;
+}
+
+.padd{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
